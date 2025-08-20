@@ -2,6 +2,8 @@
 
 This repository aims to build a **ChatGPT-like web frontend** with the **minimal dependencies** and **simplest possible structure**. The goal is to provide a clean starting point for developers who want to create conversational web applications.
 
+![demo](public/demo.png)
+
 ## Features
 
 - Built with **React**, **TypeScript**, **Vite**, and **Ant Design**
