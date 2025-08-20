@@ -1,0 +1,7 @@
+{
+    "model": {
+        "name": "GPT-3.5",
+        "api_key": "<API_KEY>",
+        "url": "http://127.0.0.1:60000/chat/completions"
+    }
+}
